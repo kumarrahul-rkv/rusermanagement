@@ -1,5 +1,5 @@
 {
-    "name": "Kumarrahul/rusermanagement",
+    "name": "kumarrahul/rusermanagement",
     "description": "This is a simple laravel package to implement user management",
     "type": "library",
     "license": "MIT",
@@ -10,7 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "nwidart/laravel-menus": "3.0.0"
+    },
     "autoload": {
         "psr-4": {
             "Kumarrahul\\rusermanagement\\": "src/"
