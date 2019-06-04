@@ -10,9 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        //"nwidart/laravel-menus": "3.0.0"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
             "Kumarrahul\\rusermanagement\\": "src/"
