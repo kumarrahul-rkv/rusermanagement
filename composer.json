@@ -1,0 +1,19 @@
+{
+    "name": "Kumarrahul/rusermanagement",
+    "description": "This is a simple laravel package to implement user management",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rahul Kumar",
+            "email": "rahulverma.rkv@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kumarrahul\\rusermanagement\\": "src/"
+        }
+    }
+}
