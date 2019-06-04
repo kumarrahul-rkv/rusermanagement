@@ -17,5 +17,12 @@
         "psr-4": {
             "Kumarrahul\\rusermanagement\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Kumarrahul\\rusermanagement\\UMServiceProvider"
+            ]
+        }
     }
 }
